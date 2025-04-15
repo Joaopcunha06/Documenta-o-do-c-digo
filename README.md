@@ -2,8 +2,7 @@
 
 Diretório da Documentação de Estilos CSS – Projeto Final Este diretório contém todos os estilos do projeto, tornando-o modular e claro por meio da metodologia B.E.M. Específica grade e otimizada para manutenção e escalabilidade. Metodologia: B.E.M Estrutura: bloco – componente principal bloco bloco__elemento – partes do bloco bloco bloco–modificador – vários templates
 
-
-Accessibilidade
+♿ Accessibilidade
 
 Foco visível: todos os elementos interativos têm o :focus personalizado com um outline.
 
@@ -15,7 +14,7 @@ Nenhum conteúdo é escondido com display: none, exceto onde semanticamente corr
 
 O.visually-hidden é adotado para manter os textos úteis apenas para os leitores de tela, sendo opcional a sua utilização.
 
- Performance
+🚀 Performance
 
 As folhas de estilos de cada componente estão divididas em carregamentos futuros com base no demanda.
 
